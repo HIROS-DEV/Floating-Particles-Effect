@@ -1,6 +1,6 @@
 # Floating-Particles-Effect
 
-This is HTML Canvas project for just fun.
+This is HTML Canvas project for just fun. <br/>
 The project is from Youtube channel. (https://www.youtube.com/watch?v=hotMX-pqjkQ)
 
 ![screenshot](./desktop.png)
